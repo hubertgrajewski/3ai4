@@ -67,4 +67,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/21/sprites/diagram_project.png>
- [OSD]: <https://github.com/Michal3456/3ai4/blob/main/21/sprites/layout.png>
+ [OSD]: <https://github.com/Michal3456/3ai4/blob/main/21/sprites/Orgchart.png>
