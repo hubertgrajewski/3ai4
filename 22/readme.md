@@ -37,6 +37,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram in jpg][erd]
 
+## Organizational structure diagram
+
+[link to diagram OSD in jpg][osd]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -59,3 +63,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai4/tree/main/22/Diagram ERD.jpg>
+ [osd]: <https://github.com/Michal3456/3ai4/blob/main/22/sprites/org.drawio.png>
