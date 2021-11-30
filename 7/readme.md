@@ -40,7 +40,7 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram in jpg][erd]
 
-##Organizational structure diagram
+## Organizational structure diagram
 
 [link to diagram OSD in jpg[osd]
 
