@@ -65,6 +65,6 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd1]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20diagram.png>
- [erd2]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20Diagram.drawio.png>
+ [erd2]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ORG%20diagram.png>
 
  
