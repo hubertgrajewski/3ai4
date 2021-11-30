@@ -8,6 +8,7 @@
 | ------ | ------ |
 | 1.0 | 17.11.2021 |
 | 1.1 | 22.11.2021 |
+| 1.2 | 30.11.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -39,6 +40,12 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram in jpg][erd]
 
+##Organizational structure diagram
+
+[link to diagram OSD in jpg[osd]
+
+
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -61,3 +68,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/7/sprites/Diagram.jpg>
+ [osd]: <https://github.com/Michal3456/3ai4/blob/main/7/sprites/Diagram2.jpg>
