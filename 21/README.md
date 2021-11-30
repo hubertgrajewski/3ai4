@@ -6,8 +6,11 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 22.11.2021 | NONE |
+| 1.0 | 22.11.2021 | data form |
 | 1.1 | 25.11.2021 | adding ERD |
+| 1.2 | 26.11.2021 | adding organizational structure |
+| 1.3 | 30.11.2021 | adding layout form in HTML |
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -18,7 +21,7 @@ The project concerns a system that allows you to show current location of select
 
 | data | type |
 | ------ | ------ |
-| INPUT | car name |
+| INPUT | GPS number |
 | OUTPUT | current location of selected car |
 
 ## Main functionalities
@@ -36,9 +39,13 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram in jpg][erd]
+[link to ERD][erd]
 
-## Cpecific functionalities
+## Organizational Structure Diagram
+
+[link to OSD][OSD]
+
+## Specific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
 
@@ -60,3 +67,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/21/sprites/diagram_project.png>
+ [OSD]: <https://github.com/Michal3456/3ai4/blob/main/21/sprites/layout.png>
