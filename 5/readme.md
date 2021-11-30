@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Facial expression recognition system
 
 ## _contractor: Mateusz Domagalski_
 ## _principal: Michał Czerwiński_
@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 |
 | 1.1 | 17.11.2021 |
 | 1.2 | 18.11.2021 |
+| 1.3 | 30.11.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
