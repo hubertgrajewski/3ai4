@@ -26,9 +26,9 @@ The project is about a system that involves recognizing facial expressions in va
 
 ## Main functionalities
 
-1. relational database based on SQL language
-1. frot-end created in JavaScript and CSS technologies
-1. back-end executed in PHP language and auxiliary scripts
+1. Relational database based on SQL language.
+1. Frot-end created in JavaScript and CSS technologies.
+1. Back-end executed in PHP language and auxiliary scripts.
 
 The above functionalities are tested and work according to their roles.
 
