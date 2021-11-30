@@ -42,7 +42,8 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram in jpg][erd]
+[link to diagram ERD in png][erd1]
+[link to diagram ORG in png][erd2]
 
 ## Cpecific functionalities
 
@@ -65,7 +66,7 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
- [erd]: <https://github.com/mateuszdomagalski/mateusz-domagalski/blob/main/Untitled%20Diagram.drawio.png>
- [erd]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20Diagram.drawio.png>
+ [erd1]: <https://github.com/mateuszdomagalski/mateusz-domagalski/blob/main/Untitled%20Diagram.drawio.png>
+ [erd2]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20Diagram.drawio.png>
 
  
