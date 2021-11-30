@@ -10,6 +10,7 @@
 | 1.1 | 17.11.2021 |
 | 1.2 | 18.11.2021 |
 | 1.3 | 30.11.2021 |
+| 1.4 | 30.11.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -65,3 +66,6 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/mateuszdomagalski/mateusz-domagalski/blob/main/Untitled%20Diagram.drawio.png>
+ [erd]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20Diagram.drawio.png>
+
+ 
