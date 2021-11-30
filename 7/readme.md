@@ -42,7 +42,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram in jpg][osd]
 
 
 
