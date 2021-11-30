@@ -21,8 +21,8 @@ The project is about a system that involves recognizing facial expressions in va
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form | images |
-| OUTPUT | data form | description |
+| INPUT | data form, images |
+| OUTPUT | data form, description |
 
 ## Main functionalities
 
